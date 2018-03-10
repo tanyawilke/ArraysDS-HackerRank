@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayhack", "arrayhack\arrayhack.csproj", "{46564D24-BE3A-47A3-AD55-2316D435491D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46564D24-BE3A-47A3-AD55-2316D435491D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46564D24-BE3A-47A3-AD55-2316D435491D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46564D24-BE3A-47A3-AD55-2316D435491D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46564D24-BE3A-47A3-AD55-2316D435491D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3875738D-C216-4992-B2D6-20F7B1FCCEF6}
+	EndGlobalSection
+EndGlobal
